@@ -12,9 +12,7 @@ from sklearn import preprocessing
 
 
 class DatasetSampler(Sampler):
-    """
-    IP:
-    """
+
     def __init__(self, n_samples, start=0):
         self.n_samples = n_samples
         self.start = start
@@ -58,9 +56,6 @@ class NewsEventDataset(Dataset):
         n_classes = self.get_num_class()
         class_weight = self.N / (n_classes * np.bincount(self.labels))
         self.class_weight = torch.FloatTensor(class_weight)
-
-    # def get_embedding(self):
-    #     return self.embedding
 
     def get_trust_features(self):
         return self.trust_features
