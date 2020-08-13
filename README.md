@@ -1,4 +1,5 @@
 Implementation for false information spreader prediction model using Graph Attention and Graph Convolution Network.
+(Part of research paper submitted to WSDM,21)
 
 Debunked article from AltNews is referenced [here](https://www.altnews.in/bjp-mla-raja-singh-plagiarises-pakistan-army-song-dedicates-it-to-indian-army/).
  
