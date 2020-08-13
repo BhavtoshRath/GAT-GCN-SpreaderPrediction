@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5accc5de-e592-4488-b2a7-1b67437c1fb5" name="Default Changelist" comment="" />
+    <list default="true" id="5accc5de-e592-4488-b2a7-1b67437c1fb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GAT-GCN-SpreaderPrediction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gat_layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_data.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+            <state relative-caret-position="265">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -84,6 +95,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -100,6 +114,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -112,28 +127,6 @@
             <path>
               <item name="GAT-GCN-SpreaderPrediction" type="b2602c69:ProjectViewProjectNode" />
               <item name="GAT-GCN-SpreaderPrediction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GAT-GCN-SpreaderPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GAT-GCN-SpreaderPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="1116612649972719617" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GAT-GCN-SpreaderPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GAT-GCN-SpreaderPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="1116612649972719617" type="462c0819:PsiDirectoryNode" />
-              <item name="02-07-2020-22:20:06_50_scaled" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GAT-GCN-SpreaderPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GAT-GCN-SpreaderPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="1117354119650598912" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GAT-GCN-SpreaderPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GAT-GCN-SpreaderPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="1117354119650598912" type="462c0819:PsiDirectoryNode" />
-              <item name="30-06-2020-18:04:19_50_scaled" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,8 +192,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1050" y="0" width="1050" height="1680" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33430514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23420797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,12 +218,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/train.py</url>
-          <line>151</line>
+          <line>149</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/train.py</url>
-          <line>83</line>
+          <line>81</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
@@ -291,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="265">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>

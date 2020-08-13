@@ -1,5 +1,0 @@
-valid_,loss:1.705,acc:0.574,prec:0.554,rec:0.965,f1:0.704
-valid_,loss:1.265,acc:0.631,prec:0.593,rec:0.948,f1:0.729
-valid_,loss:0.991,acc:0.649,prec:0.607,rec:0.940,f1:0.738
-valid_,loss:0.784,acc:0.671,prec:0.624,rec:0.938,f1:0.750
-valid_,loss:0.614,acc:0.705,prec:0.653,rec:0.933,f1:0.768
