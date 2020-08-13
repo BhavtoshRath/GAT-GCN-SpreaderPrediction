@@ -1,0 +1,12 @@
+test_,loss:1.756,acc:0.537,prec:0.520,rec:0.964,f1:0.676
+test_,loss:1.291,acc:0.625,prec:0.573,rec:0.987,f1:0.725
+test_,loss:1.003,acc:0.642,prec:0.585,rec:0.987,f1:0.734
+test_,loss:0.783,acc:0.662,prec:0.600,rec:0.977,f1:0.743
+test_,loss:0.603,acc:0.701,prec:0.635,rec:0.951,f1:0.761
+test_,loss:0.503,acc:0.766,prec:0.705,rec:0.917,f1:0.797
+test_,loss:0.452,acc:0.847,prec:0.811,rec:0.906,f1:0.856
+test_,loss:0.424,acc:0.888,prec:0.896,rec:0.878,f1:0.887
+test_,loss:0.406,acc:0.905,prec:0.928,rec:0.878,f1:0.902
+test_,loss:0.391,acc:0.920,prec:0.965,rec:0.872,f1:0.917
+test_,loss:0.379,acc:0.924,prec:0.977,rec:0.870,f1:0.920
+test_,loss:0.368,acc:0.933,prec:0.977,rec:0.888,f1:0.930

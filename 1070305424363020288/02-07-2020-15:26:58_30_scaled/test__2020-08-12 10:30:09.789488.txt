@@ -1,0 +1,4 @@
+test_,loss:1.756,acc:0.537,prec:0.520,rec:0.964,f1:0.676
+test_,loss:1.291,acc:0.625,prec:0.573,rec:0.987,f1:0.725
+test_,loss:1.003,acc:0.642,prec:0.585,rec:0.987,f1:0.734
+test_,loss:0.783,acc:0.662,prec:0.600,rec:0.977,f1:0.743

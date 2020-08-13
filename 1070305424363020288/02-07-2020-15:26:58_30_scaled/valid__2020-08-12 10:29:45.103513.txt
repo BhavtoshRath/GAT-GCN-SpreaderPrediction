@@ -1,0 +1,12 @@
+valid_,loss:1.705,acc:0.574,prec:0.554,rec:0.965,f1:0.704
+valid_,loss:1.265,acc:0.631,prec:0.593,rec:0.948,f1:0.729
+valid_,loss:0.991,acc:0.649,prec:0.607,rec:0.940,f1:0.738
+valid_,loss:0.784,acc:0.671,prec:0.624,rec:0.938,f1:0.750
+valid_,loss:0.614,acc:0.705,prec:0.653,rec:0.933,f1:0.768
+valid_,loss:0.516,acc:0.756,prec:0.723,rec:0.866,f1:0.788
+valid_,loss:0.467,acc:0.795,prec:0.859,rec:0.729,f1:0.789
+valid_,loss:0.440,acc:0.816,prec:0.955,rec:0.682,f1:0.795
+valid_,loss:0.421,acc:0.828,prec:0.996,rec:0.674,f1:0.804
+valid_,loss:0.407,acc:0.828,prec:0.996,rec:0.674,f1:0.804
+valid_,loss:0.396,acc:0.829,prec:1.000,rec:0.674,f1:0.805
+valid_,loss:0.385,acc:0.836,prec:1.000,rec:0.687,f1:0.814
